@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, it's rahim
+#### full stack web developer
+![full stack web developer](https://images.pexels.com/photos/205416/pexels-photo-205416.jpeg?auto=compress&cs=tinysrgb&w=400)
 
-<!--
-**rx7iiim/rx7iiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science student with a strong interest in software engineering. Having recently learned the fundamentals, I am eager to apply my knowledge and gain hands-on experience through real-world projects.
 
-Here are some ideas to get you started:
+Skills: MONGODB/NODEJS/ REACT / JS / HTML / CSS/SQL/PYTHON/C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
