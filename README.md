@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
-### about my projects
 
+
+about my projects
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rx7iiim&layout=compact&theme=default)
 
 
