@@ -6,7 +6,6 @@ I am a computer science student with a strong interest in software engineering. 
 
 Skills: MONGODB/NODEJS/ REACT / JS / HTML / CSS/SQL/PYTHON/C
 
-- 🔭 I’m currently working on this page. 
 
 
 
