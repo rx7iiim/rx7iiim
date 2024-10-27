@@ -5,10 +5,9 @@
 
 ### Skills
 
-## Technologies Used
 
-| Logo           | Name           |
-|----------------|----------------|
+
+
 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40" height="40"> | Linux        |
 | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"> | Git          |
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"> | GitHub       |
