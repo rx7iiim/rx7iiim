@@ -8,6 +8,7 @@
 <p align="left">
 | Logo           | Name           |
 |----------------|----------------|
+
 | ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) | Linux        |
 | ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) | Git          |
 | ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | GitHub       |
