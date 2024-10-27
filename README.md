@@ -6,7 +6,28 @@
 ### Skills
 
 <p align="left">
-linux logo  git logo  github logo  digitalocean logo  docker logo  vscode logo  javascript logo  html5 logo  css3 logo  tailwindcss logo  redux logo  react logo  nextjs logo  nodejs logo  typescript logo  express logo  nestjs logo  fastapi logo  socketio logo  firebase logo  mongodb logo  postgresql logo  redis logo  figma logo  python logo  java logo  go logo
+
+| ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) | Linux        |
+| ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) | Git          |
+| ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) | GitHub       |
+| ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) | Docker      |
+| ![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) | VSCode      |
+| ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | JavaScript  |
+| ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) | HTML5      |
+| ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) | CSS3       |
+| ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | React       |
+| ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg) | Next.js     |
+| ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) | Node.js     |
+| ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) | TypeScript |
+| ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) | Express.js  |
+| ![NestJS](https://upload.wikimedia.org/wikipedia/commons/4/4d/Nestjs-logo.svg) | NestJS      |
+| ![FastAPI](https://upload.wikimedia.org/wikipedia/commons/6/6e/FastAPI.svg) | FastAPI     |
+| ![Firebase](https://www.gstatic.com/devrel-devsite/prod/v1b45a7e5573cdcd1fb9feccc5c4b5738b9a3eab36e30c9a791fb223a5e6c2f9e/firebase/images/lockup.svg) | Firebase    |
+| ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg) | MongoDB    |
+| ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) | PostgreSQL |
+| ![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) | Figma       |
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | Python      |
+
 
 </p>
 
