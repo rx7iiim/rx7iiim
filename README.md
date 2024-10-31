@@ -8,7 +8,7 @@ A computer sience student passionate about software emgineering Data Science  :b
 <!--
 - 🌱 I’m currently pursuing **class preparatory in computer sience Engineering at Estin**
 -->
-- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about chess :racing_car:, Memes, Anime, Movies 🎥, politics 🎮, Amateur Photography 📸
 
