@@ -1,9 +1,8 @@
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
-### Hi there 👋 I'm abderahim zine,
 
-A computer sience student passionate about software emgineering Data Science  :bar_chart:. I like automating, learning new technologies ,and building software products. :dev: Full stack developer, 🚀 DevOps, :new: Innovation and Automation  
+## Hi there 👋 I'm abderahim zine,
+
+### A computer sience student passionate about software emgineering Data Science  :bar_chart:. I like automating, learning new technologies ,and building software products. :dev: Full stack developer, 🚀 DevOps, :new: Innovation and Automation  
 
 <!--
 - 🌱 I’m currently pursuing **class preparatory in computer sience Engineering at Estin**
@@ -15,7 +14,6 @@ A computer sience student passionate about software emgineering Data Science  :b
 ### My skills include
 
 <p align="center">
-## My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -72,14 +70,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="99" height="20" src="https://github-readme-stats.vercel.app/api?username=rx7iiim&show_icons=true&theme=radical">
+  <img width="299" height="320" src="https://github-readme-stats.vercel.app/api?username=rx7iiim&show_icons=true&theme=radical">
 </p>
 
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rx7iiim&layout=compact&theme=default)
 
 
 
