@@ -9,7 +9,6 @@
 -->
 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Into chess :racing_car:, Memes, Anime, Movies 🎥, politics 🎮, Amateur Photography 📸
 
 ### My skills include
 
