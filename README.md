@@ -22,12 +22,17 @@
 
 
 <!--Intro start-->
--👨‍💻 CS Student | Full Stack Web Developer
--🚀 Building modern web apps with NestJS, Next.js, and PostgreSQL
--🛠️ Passionate about clean architecture, API design, and backend scaling
--📦 Working with monorepo setups using Git, TypeORM, and configuration best practices
--🤖 Excited to dive into Machine Learning and AI in the near future
--🌍 Eager to collaborate, learn, and contribute to open-source!
+- 👨‍💻 CS Student | Full Stack Web Developer
+
+- 🚀 Building modern web apps with NestJS, Next.js, and PostgreSQL
+
+- 🛠️ Passionate about clean architecture, API design, and backend scaling
+
+- 📦 Working with monorepo setups using Git, TypeORM, and configuration best practices
+
+- 🤖 Excited to dive into Machine Learning and AI in the near future
+
+- 🌍 Eager to collaborate, learn, and contribute to open-source!
 
 - 📫 Feel free to reach me out **a_zine@estin.dz**
 
