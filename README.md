@@ -22,7 +22,7 @@
 
 
 <!--Intro start-->
-- 👨‍💻 CS Student | Full Stack Web Developer
+- 👨‍💻 CS Student | Full Stack App Developer
 
 - 🚀 Building modern web apps with NestJS, Next.js, and PostgreSQL
 
