@@ -9,7 +9,6 @@
   </ul>
 </div>
 
-[![Watch the demo](Bleach.gif)
 
 
 
