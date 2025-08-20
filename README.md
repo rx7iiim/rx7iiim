@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-[![Watch the demo](Screenshot.png)]
+[![Watch the demo](Bleach.gif)]
 
 
 
